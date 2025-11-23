@@ -16,7 +16,6 @@ I am an **Operations & Supply Chain Expert** leveraging **No-Code tools & AI** t
 My focus: eliminating repetitive tasks and connecting tools to optimize operational margins. I may not write code from scratch, but I know how to make it work using AI.
 
 * 🔭 **Currently:** Head of Operations at **getinside** (Toulouse).
-* 🤖 **Powered by:** **Gemini** (My coding assistant for Python & Scripts).
 * 💡 **My Philosophy:** "Operational Excellence through Smart Automation".
 
 ---
